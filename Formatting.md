@@ -15,3 +15,4 @@ S - Swift  <br />
 SQL - SQL  <br />
 Sc - Scala  <br />
 Rs - Rust  <br />
+Cg - C for Graphics // real language <br />
